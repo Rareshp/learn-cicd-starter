@@ -25,5 +25,10 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 ## tests
 
 ## fmt
+formats the code
 
 ## staticcheck
+checks for bugs
+
+## gosec
+test for vulnerabilities
